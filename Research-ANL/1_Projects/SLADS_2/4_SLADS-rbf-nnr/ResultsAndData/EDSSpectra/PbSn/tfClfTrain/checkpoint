@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/yzhang/Research-ANL/1_Projects/SLADS-Python-v4-EDS_ClfReg_20170407/training_nn/tfClfTrain/tfClfmodel"
+all_model_checkpoint_paths: "/home/yzhang/Research-ANL/1_Projects/SLADS-Python-v4-EDS_ClfReg_20170407/training_nn/tfClfTrain/tfClfmodel"
